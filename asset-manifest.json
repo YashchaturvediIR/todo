@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/todo/static/css/main.35f81b74.css",
-    "main.js": "/todo/static/js/main.f0509a5c.js",
-    "index.html": "/todo/index.html",
-    "main.35f81b74.css.map": "/todo/static/css/main.35f81b74.css.map",
-    "main.f0509a5c.js.map": "/todo/static/js/main.f0509a5c.js.map"
+    "main.css": "/Sandeep2042001/todo.git/static/css/main.35f81b74.css",
+    "main.js": "/Sandeep2042001/todo.git/static/js/main.f0509a5c.js",
+    "index.html": "/Sandeep2042001/todo.git/index.html",
+    "main.35f81b74.css.map": "/Sandeep2042001/todo.git/static/css/main.35f81b74.css.map",
+    "main.f0509a5c.js.map": "/Sandeep2042001/todo.git/static/js/main.f0509a5c.js.map"
   },
   "entrypoints": [
     "static/css/main.35f81b74.css",
